@@ -1,0 +1,14 @@
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

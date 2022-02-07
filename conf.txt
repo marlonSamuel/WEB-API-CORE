@@ -1,0 +1,18 @@
+pasos configuración .net core 3.1
+
+instalar paquetes
+
+MicrosoftEntityFrameworkCore
+MicrosoftEntityFrameworkCore.tools
+MicrosoftEntityFrameworkCore.SqlServer
+MicrosoftEntityFrameworkCore.Design
+
+
+conexion code first database existing
+Scaffold-DbContext "Data Source=LAPTOP-AL8IGGUV;Initial Catalog=StudentDB;User ID=sa;Password=senpai" Microsoft.EntityFrameworkCore.SqlServer
+
+REF
+https://github.com/Anexsoft/kodoti-vue-spa-project-net-core
+
+add-migration initialize
+update-database

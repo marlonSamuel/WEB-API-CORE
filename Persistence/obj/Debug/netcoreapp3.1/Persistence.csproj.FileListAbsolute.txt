@@ -1,0 +1,15 @@
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\senpai\Desktop\PRACTICAS\C#\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache
