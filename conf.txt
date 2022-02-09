@@ -16,3 +16,15 @@ https://github.com/Anexsoft/kodoti-vue-spa-project-net-core
 
 add-migration initialize
 update-database
+
+--sql server saving changes.
+Open SQL Server Management Studio.
+
+On the Tools menu, click Options.
+
+In the navigation pane of the Options window, click Designers.
+
+Select or clear the Prevent saving changes that require the table re-creation check box, and then click OK.
+
+ciclo json
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
